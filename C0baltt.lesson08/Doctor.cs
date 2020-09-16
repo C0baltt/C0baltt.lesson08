@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Security.Cryptography.X509Certificates;
 
 namespace C0baltt.lesson08
 {
@@ -7,7 +6,7 @@ namespace C0baltt.lesson08
     {
         void m()
         {
-           public string Specialization
+           public string Specialization;
         }
     }
 }

@@ -22,7 +22,18 @@ namespace C0baltt.lesson08
             p2.Lastname = "Иванов";
 
             var d = new Doctor();
-            d.
+            d.Firstname = "Роман";
+            d.Specialization = "333";
+
+            Console.WriteLine(d.Firstname);
+            Console.WriteLine(d.Specialization);
+
+            Person p = d;
+
+            Console.WriteLine(p.)
+
+            Doctor dd =p (Doctor)p;
+            
         }
     }
 }
