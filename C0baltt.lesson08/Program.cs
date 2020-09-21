@@ -10,9 +10,6 @@ namespace C0baltt.lesson08
     {
         static void Main(string[] args)
         {
-            int i = 0;
-            Int32 j = new Int32();
-
             Person person = new Person();
             person.Firstname = "Вадим";
             person.Lastname = "Шванов";
@@ -30,10 +27,7 @@ namespace C0baltt.lesson08
 
             Person p = d;
 
-            Console.WriteLine(p.)
-
-            Doctor dd =p (Doctor)p;
-            
+            Console.WriteLine(p);
         }
     }
 }
